@@ -1,0 +1,3 @@
+Yo lo
+lmao lmaolol lol
+& C:/Users/AART/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/AART/OneDrive/Documents/College/2nd-Year/GDSC/PythonWorkshopProblems/Cashier.py & C:/Users/AART/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/AART/OneDrive/Documents/College/2nd-Year/GDSC/PythonWorkshopProblems/Cashier.py
